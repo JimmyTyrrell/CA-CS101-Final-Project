@@ -21,15 +21,17 @@ Phase 2: Individual report
 
 
   User will receive an individualized report detailing the various categories into which they placed themselves with their answers.
+    
     Example:
+      
       Sample User Summary:
       Male, Heterosexual, 63/Baby Boomer, Fit/Conventionally Abled, Upper Middle class, White Western/Northern European
-      Familiarity with issues outside of professed gender: 3 (minimal)
-      Familiarity with issues outside of professed sexuality: 2 (needs work)
-      Familiarity with issues outside of professed age group: 4 (positive understanding)
-      Familiarity with issues outside of professed ability group: 5 (active sympathy)
-      Familiarity with issues outside of professed economic group: 3 (minimal)
-      Familiarity with issues outside of professed nationality/ethnicity: 1 (at-risk)
+      Familiarity with issues outside of professed gender:                  3 (minimal)
+      Familiarity with issues outside of professed sexuality:               2 (needs work)
+      Familiarity with issues outside of professed age group:               4 (positive understanding)
+      Familiarity with issues outside of professed ability group:           5 (active sympathy)
+      Familiarity with issues outside of professed economic group:          3 (minimal)
+      Familiarity with issues outside of professed nationality/ethnicity:   1 (at-risk)
       
 Phase 3: Suggestions for personal growth
   
