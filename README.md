@@ -1,2 +1,2 @@
 # ClassProjects
-Public projects for my various learning platforms
+Projects for my various learning platforms
