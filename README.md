@@ -39,35 +39,38 @@ Phase 3: Suggestions for personal growth
     
     Example (in accordance with above example):
       
-      Gender: You have a basic awareness that different gender identities present different challenges, but it seems your cultural training 
-      limits how you are able to perceive those outside of your own gender group. As a binary male, make an effort to imagine binary females
-      as having a level of self-determination, and a range of possibilities, comparable to your own. As a binary, make as effort to imagine
-      non-binaries as having the same right to legitimacy in their identity as you do. Find opportunities to talk to and work with people
-      outside of your gender group as equals, and try to apprehend them as people you can learn something from. Resist the narratives that 
-      purport you must be fearful or suspicious of, or in hostile competition with, people of other gender groups.
+      Gender: You have a basic awareness that different gender identities present different challenges, but it seems your cultural
+      training limits how you are able to perceive those outside of your own gender group. As a binary male, make an effort to 
+      imagine binary females as having a level of self-determination, and a range of possibilities, comparable to your own. As a binary, 
+      make as effort to imagine non-binaries as having the same right to legitimacy in their identity as you do. Find opportunities to 
+      talk to and work with people outside of your gender group as equals, and try to apprehend them as people you can learn something 
+      from. Resist the narratives that purport you must be fearful or suspicious of, or in hostile competition with, people of other 
+      gender groups.
       
-      Sexuality: Your understanding of the legitimacy of non-hetero sexualities is limited. Make an effort to educate yourself about the history
-      and root causes of prejudice against people of unconventional sexualities, and to identify the source of your own prejudice. Perhaps you are not
-      ready at this time to pursue friendships with people of other sexualities, but try to imagine yourself as someone who could.
+      Sexuality: Your understanding of the legitimacy of non-hetero sexualities is limited. Make an effort to educate yourself about 
+      the history and root causes of prejudice against people of unconventional sexualities, and to identify the source of your own 
+      prejudice. Perhaps you are not ready at this time to pursue friendships with people of other sexualities, but try to imagine 
+      yourself as someone who could.
       
-      Age Group: You exhibit an above-average understanding of the challenges outside of your age group. Continue to initiate and promote positive 
-      intergenerational dialog, and to cultivate positive relationships with friends and family of other generations.
+      Age Group: You exhibit an above-average understanding of the challenges outside of your age group. Continue to initiate and 
+      promote positive intergenerational dialog, and to cultivate positive relationships with friends and family of other generations.
       
-      Ability Group: You exhibit an exceptional capacity to sympathize with and advocate for people of other ability groups. Try to migrate 
-      this level of understanding to other categories.
+      Ability Group: You exhibit an exceptional capacity to sympathize with and advocate for people of other ability groups. Try to 
+      migrate this level of understanding to other categories.
       
-      Economic group: You have a basic understanding of the existence of class challenges, but seem to have little familiarity with the specific
-      challenges of those outside your own economic class. Make an effort to educate yourself about how economic privilege operates in your country and culture,
-      and try to imagine yourself in the situation of one less privileged. Inititate dialog with people of other economic classes. If you are in a management position,
-      try to imagine the impacts of management policies on workers from their own perspectives, and attempt to determine what obstacles to communication your relative
-      positions may impose.
+      Economic group: You have a basic understanding of the existence of class challenges, but seem to have little familiarity with the 
+      specific challenges of those outside your own economic class. Make an effort to educate yourself about how economic privilege 
+      operates in your country and culture, and try to imagine yourself in the situation of one less privileged. Inititate dialog with 
+      people of other economic classes. If you are in a management position, try to imagine the impacts of management policies on 
+      workers from their own perspectives, and attempt to determine what obstacles to communication your relative positions may impose.
       
-      Nationality/Ethnicity: Your familiarity with other ethnicities and natrionalities is dangerously deficient. Understand that, at this level of familiarity, it is
-      very easy for people to be radicalized and inducted into groups that will inspire them to act against their own interests. It is absolutely critical to
-      understand that the cultural and educational factors that drive negative views and prejudices toward outsider groups with regard to your own, drive the same kind
-      of negatives views and prejudices from other groups toward your own. In such a situation, cooperation and mutual understanding is impossible. If you wish to
-      improve your ability to have positive relations outside of your national/ethnic group, it is critically necessary for you at this time to examine the root causes
-      of your own prejudices, and critically evaluate them.
+      Nationality/Ethnicity: Your familiarity with other ethnicities and natrionalities is dangerously deficient. Understand that, at 
+      this level of familiarity, it is very easy for people to be radicalized and inducted into groups that will inspire them to act 
+      against their own interests. It is absolutely critical to understand that the cultural and educational factors that drive negative 
+      views and prejudices toward outsider groups with regard to your own, drive the same kind of negatives views and prejudices from 
+      other groups toward your own. In such a situation, cooperation and mutual understanding is impossible. If you wish to improve your 
+      ability to have positive relations outside of your national/ethnic group, it is critically necessary for you at this time to 
+      examine the root causes of your own prejudices, and critically evaluate them.
 
 Structure and function:
   1. A series of questions will give two values to a number of class objects:
